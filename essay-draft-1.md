@@ -158,11 +158,6 @@ We need to move to:
 
 ---
 
-If you want, I can now help you **write Stage 3**: the deep dive into the neurocognitive requirements of leadership—framed soberly, analytically, and clearly.
-
-Just let me know if you'd like to proceed!
-
-
 ## **Stage 3: The Hidden Requirement — What Leadership Actually Demands**
 
 If we strip away the moral promises and public justifications, what is leadership really?
