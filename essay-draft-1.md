@@ -383,19 +383,162 @@ The gap between the two is where much of politics, hypocrisy, and disillusionmen
 
 ---
 
-### **5. Why the Dressing Cannot Be Removed**
+Great — this is the right instinct.
 
-We might think: *Wouldn’t it be more honest to speak plainly of the hidden requirements?*
+**Stage 4B and Stage 5 are actually two halves of one mechanism**, and when merged properly they form a *single, powerful structural argument*:
 
-But moral dressing is not a mistake.
-It is an **adaptive necessity**:
+*Stage 4 explains why the moral dressing exists.*
+*Stage 5 (expanded with 4B’s content) explains the full pressure system that keeps leadership inside the moral mode — and what happens when that system fails.*
 
-* It legitimizes authority.
-* It disciplines leaders.
-* It maintains trust.
-* It stabilizes cooperation.
+Below is a **fully integrated, clean, non-redundant Stage 5** that absorbs all the essential insights from 4B but removes the duplication and reorganizes them into one coherent architecture.
 
-Without it, leadership would be revealed as a contest of cunning minds under strain — a truth too raw, too destabilizing, for most societies to endure.
+This becomes your definitive “system-level” section.
+
+---
+
+# **Stage 5: The Pressure System — How Societies Contain Leadership and Prevent the Drift into Coercion**
+
+If moral dressing hides the real cognitive cost of leadership, the pressure system is what **enforces** that dressing.
+
+It channels leaders into the cooperative, virtue-justified mode and prevents the system from collapsing into the coercive mode.
+
+This system operates across three layers:
+
+1. **Entry discipline**
+2. **Maintenance discipline**
+3. **Failure mode: coercive drift**
+
+Integrated together, they reveal **why moral expectations are not idealistic fantasies but structural constraints on power.**
+
+---
+
+## **1. Entry Discipline — The Conformity Funnel**
+
+Societies do not permit just anyone to rise.
+
+To approach authority at all, an aspiring leader must already demonstrate:
+
+* fluency in the moral script,
+* public responsibility,
+* alignment with institutional norms,
+* predictability in behavior.
+
+This is not about virtue — it is about **risk minimization**.
+
+Only those who show compliance with the moral story are granted access to power.
+Thus the path upward is tightly filtered:
+
+> Leadership begins not in excellence but in *acceptable conformity*.
+
+This is how societies reduce the probability that a coercive leader emerges in the first place.
+
+---
+
+## **2. Maintenance Discipline — How the System Keeps Leaders in Bounds**
+
+Once at the top, leaders face a new environment.
+
+They must:
+
+* signal virtue to maintain legitimacy,
+* demonstrate care to sustain loyalty,
+* remain within shared norms to avoid destabilization.
+
+But crucially:
+
+> This is not character polish; it is the price of continued authority.
+
+Institutions enforce this discipline:
+
+* media scrutiny,
+* bureaucratic slow-rolling,
+* elite coalitional expectations,
+* reputational risk,
+* formal checks and informal taboos.
+
+A leader who strays too far from the moral story is disciplined by the system itself.
+
+Thus **moral performance is not optional** — it is structurally demanded.
+
+---
+
+## **3. The Hidden Role of Moral Dressing — Preventing Coercive Substitution**
+
+Moral narratives do not merely legitimate leadership; they **contain a threat**.
+
+They delegitimize:
+
+* fear-based rule,
+* raw coercion,
+* manipulation without justification,
+* governance by force or velocity.
+
+The moral story is a **civilizational firewall** that pre-emptively declares coercive leadership illegitimate.
+
+It is how societies restrain the shadow mode.
+
+---
+
+## **4. When the Pressure Fails — The Coercive Drift**
+
+Despite the funnel and the restraints, legitimacy can fail.
+
+When this happens, leadership does not disappear or become immoral; it becomes **coercive**:
+
+* Trust evaporates.
+* Norms lose their force.
+* Moral dressing stops functioning as currency.
+
+In this vacuum, the leader must rely on:
+
+* control of violence or threat,
+* tighter information management,
+* accelerated decision cycles,
+* preemptive action to prevent rival coordination,
+* strategic fear rather than persuasive trust.
+
+This is the **fallback mode** of leadership — not a moral deviation but a structural reconfiguration under failure conditions.
+
+It is cognitively harder, more brittle, and far less stable.
+
+---
+
+## **5. Coercion and Legitimacy Are Not Opposites — They Are Modes in a Single System**
+
+Both legitimate and coercive leadership require:
+
+* strategic social modeling,
+* attentional control,
+* emotional discipline,
+* counterfactual reasoning,
+* management of appearances.
+
+The difference lies in **the channel of compliance**:
+
+* In legitimacy: cooperation flows through **trust**.
+* In coercion: cooperation flows through **fear**.
+
+This is why societies work so hard to keep leaders inside the legitimacy track:
+
+> The coercive mode is always possible, always costly, always lurking at the edges of collapse.
+
+The pressure system exists to prevent its activation.
+
+---
+
+## **6. The Dialectic Completed — Why Moral Dressing Cannot Be Removed**
+
+Now the relationship between the layers becomes clear:
+
+* **Stage 4** showed why moral dressing exists.
+* **Stage 5** shows how societies enforce it — and what they fear if it fails.
+
+This reveals a simple but unsettling truth:
+
+> Leadership is always balancing between trust and coercion.
+> Societies build moral narratives to keep that balance stable.
+
+The moral scripts are not naïve — they are **civilizational technologies** designed to contain a latent structural danger.
 
 ---
 
