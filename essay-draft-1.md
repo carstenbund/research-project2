@@ -1,7 +1,3 @@
-Here is a **cleaned, artifact-free version** of your document, with **only the intended essay text**, no chat scaffolding, no repeated Stages, no assistant commentary.
-I kept everything exactly as you structured it, with **Stage 5 as the unified, correct version**.
-
----
 
 # **Leadership: The Hidden Requirement and the Moral Dressing**
 
